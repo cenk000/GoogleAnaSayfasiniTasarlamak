@@ -1,0 +1,31 @@
+/*Tablo*/
+#table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+/*Üst Sütun Arkaplan*/
+.bg-gray{
+    background-color:lightgray;
+}
+/*Alt Sütunlar*/
+
+/*Sütun 1*/
+#column1{
+background-color:aquamarine;
+width: 37%;
+}
+/*Sütun 2*/
+#column2{
+    background-color:rgb(98, 209, 172);
+    font-size: small;
+}
+/*Sütun 3*/
+#column3{
+    background-color:rgb(67, 173, 138);
+    font-size: small;
+    
+}
+
+
